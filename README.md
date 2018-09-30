@@ -5,7 +5,7 @@
 
 **Let's re-create awesome websites made by Adam.**
 
-## WEBSITE 1 : http://www.adamhartwig.co.uk/
+## [WEBSITE 1](http://www.adamhartwig.co.uk/)
 
 ![image](https://user-images.githubusercontent.com/5800726/46262842-cc301d80-c524-11e8-896a-b53c94f3339d.png)
 
