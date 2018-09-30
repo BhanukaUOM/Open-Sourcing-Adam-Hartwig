@@ -1,3 +1,10 @@
+# Open-Sourcing-Adam-Hartwig
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+> Open Sourcing Adam Hartwig Websites
+
 <h1 align="center"> Open Sourcing Adam Hartwig </h1>
 
 <h2 align="center"> Hacktoberfest 2018 </h2>
@@ -12,7 +19,7 @@
 
 ### Demo : 
 
-![](https://media.giphy.com/media/57Uyah4xlikV152exA/giphy.gif)
+![DemoImage](https://media.giphy.com/media/57Uyah4xlikV152exA/giphy.gif)
 
 ----------
 
@@ -24,7 +31,9 @@
 
 ## 💻 Third Website : 
 
+![Website 2 Screenshot](web2.png)
+=======
 <h2 align="center">https://www.petenottage.co.uk/</h2>
 
+![Website 3 Screenshot](web3.png)
 
-----------
