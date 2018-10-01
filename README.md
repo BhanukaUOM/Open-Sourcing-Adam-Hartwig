@@ -13,7 +13,7 @@
 
 ## 💻 First Website : 
 
-<h2 align="center"> **[adamhartwig.co.uk](http://www.adamhartwig.co.uk/)** </h2>
+<h2 align="center">http://www.adamhartwig.co.uk/</h2>
 
 ![image](https://user-images.githubusercontent.com/5800726/46262842-cc301d80-c524-11e8-896a-b53c94f3339d.png)
 
@@ -25,7 +25,7 @@
 
 ## 💻 Second Website : 
 
-<h2 align="center">**[creativeedgeparties.com](http://www.creativeedgeparties.com/)**</h2>
+<h2 align="center">http://www.creativeedgeparties.com/</h2>
 
 ----------
 
@@ -33,7 +33,6 @@
 
 ![Website 2 Screenshot](web2.png)
 =======
-<h2 align="center">**[petenottage.co.uk](https://www.petenottage.co.uk/)**</h2>
+<h2 align="center">https://www.petenottage.co.uk/</h2>
 
 ![Website 3 Screenshot](web3.png)
-
